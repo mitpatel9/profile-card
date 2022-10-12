@@ -1,0 +1,15 @@
+
+.card{
+    width: 250px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px rgb(167, 166, 166);
+}
+.text{
+    color: gray;
+}
+.btn{
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: black;
+}
